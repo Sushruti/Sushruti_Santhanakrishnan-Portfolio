@@ -11,20 +11,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I am Sushruti Santhanakrishnan from Chennai, India. I am currently pursuing Master of Urban Design in Carnegie Mellon University. I have a bachelors in Public Space Design and my interest lies in community led design, creating spaces is for EVERYONE. Right now I'm on a journey to push myself out of my comfort zone and really force myslef to learn something new, something that will enhance my work.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+There are a million things that I want to learn, academically but also things that just create life-long memories for me. 
+For now I'm just going to stick to the things I hope to learn from this class!
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- I am new to data viz and by the time this course ends, I want to be confident in analyzing but also presenting my data to others-especially to those who might not have experience with data viz.
+- To be able to comfortably code- even if its just a little. I have a mental block when it comes to coding, I have never learnt it in a way that I find interesting. So hopefully this course helps me break that mental block!
+- And finally, I want to learn how I could use this in my field, what data can I find within the built environment, and how I can use that to propose designs that are backed by data!
 
 # Portfolio
 
