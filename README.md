@@ -27,7 +27,6 @@ For now I'm just going to stick to the things I hope to learn from this class!
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
