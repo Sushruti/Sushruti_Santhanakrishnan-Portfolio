@@ -66,6 +66,10 @@ Text here...
 
 # Method and medium
 
+To be able to visualize popular dive sites, ArcGIS will be used to build the maps. As the project also contains data sets that are to be represented by charts, Tableau will be used to help build relevant charts. For the final project I would use ArcGIS Story Maps to help build the narrative. As I have worked with ArcGIS Story Maps, I am familiar with the interface.
+
+But as this would be a project where I build on my data visualization skills, I want to experiment with Shorthand as well. But as of now the methods and mediuam i would us would be ArcGIS Pro, Tableau and ArcGIS Story Maps.
+
 
 ## References
 
