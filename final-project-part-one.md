@@ -1,7 +1,7 @@
 | [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Data viz examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 
->  Aren't we all fascinated by the world under water? And we all definitely want to experience it, everyone wants to try scuba diivng atleast once in their lifetime. And who is to say if it becomes a passion or hobby. But do we go beyond the fascination of seeing fishes and corals up close? Have we taken a moment to think about the possible effects we might have on marine ecosystems? Well, I hope this will help all of understand that while having a hobby is great, its equally important that we practice it sustainably.
+>  Aren't we all fascinated by the world under water? And we all definitely want to experience it, everyone wants to try scuba diivng atleast once in their lifetime. And who is to say if it becomes a passion or a hobby. But do we go beyond the fascination of seeing fishes and corals up close? Have we taken a moment to think about the possible effects we might have on marine ecosystems? Well, I hope this will help all of us understand that while having a hobby is great, its equally important that we practice it sustainably.
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
