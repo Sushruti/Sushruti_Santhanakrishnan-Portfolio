@@ -49,7 +49,8 @@ These are incremental steps that can be taken from the level of an individual to
 ## Initial sketches
 > These are some initial sketches that help explain and visualize the data.
 
-![Initial Sketches](WhatsApp Image 2025-02-04 at 12.03.58 PM.jpeg](https://github.com/Sushruti/Sushruti_Santhanakrishnan-Portfolio/blob/51b9fc093b7c019a2e6858123786f193bf8ce81d/WhatsApp%20Image%202025-02-04%20at%2012.03.58%20PM.jpeg)
+![Initial Sketches](https://github.com/Sushruti/Sushruti_Santhanakrishnan-Portfolio/blob/51b9fc093b7c019a2e6858123786f193bf8ce81d/WhatsApp%20Image%202025-02-04%20at%2012.03.58%20PM.jpeg)
+
 
 
 
