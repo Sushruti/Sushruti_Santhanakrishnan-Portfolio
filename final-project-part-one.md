@@ -47,9 +47,10 @@ These are incremental steps that can be taken from the level of an individual to
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> These are some initial sketches that help explain and visualize the data.
 
-Text here...
+![Initial Sketches](WhatsApp Image 2025-02-04 at 12.03.58 PM.jpeg)
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
