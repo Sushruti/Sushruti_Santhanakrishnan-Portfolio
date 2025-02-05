@@ -57,17 +57,17 @@ These are incremental steps that can be taken from the level of an individual to
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+Data that depicts dive sites would giev viewers an understanding of where people might prefer to go diving. Using that data and data of Protected Areas; specifically marine, would be used to see the relationship to the dive sites and protected areas. Are the popular dive sights within the protected areas or not?
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Data on coral reef degredation will be used to study the main causes of degradation. The finidngs from that will help reveal that even though, not a major cause practicing scuba diving also negatively affects marine ecosystems. This data will then be used to study the most common kind of damage that scuba diving might cause; coral breakge, sediment displacment and so on. 
 
-| Name | URL | Description |
+
+| Name                     | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Marine Protected Area     | https://data.apps.fao.org/catalog/dataset/bfcb8c96-648c-4c31-9702-20fc5d4d5b49/resource/ac899252-b141-4907-b89f-9cb2de42a9b0 |  Map that provides data on Protected areas - specifically Marine           |
+| North East Ocean Data    | https://www.northeastoceandata.org/data-explorer/?{%22point%22:{%22x%22:-7959343.591718927,%22y%22:5160979.444049675,%22spatialReference%22:{%22wkid%22:102100,%22latestWkid%22:3857}},%22zoom%22:7,%22basemap%22:%22oceans%22,%22layers%22:[{%22url%22:%22https://services.northeastoceandata.org/arcgis1/rest/services/RecreationAndCulture/MapServer/16#Recreation%22,%22name%22:%22Recreational%20SCUBA%20Diving%20Areas%22,%22opacity%22:0.8},{%22url%22:%22https://services.northeastoceandata.org/arcgis1/rest/services/RecreationAndCulture/MapServer/32#Recreation%22,%22name%22:%22REEF%20Dive%20Sites%20and%20Reports%22,%22opacity%22:0.8}]}    | Dataset of Recreational Scuba and reef dive sites in North East USA            |
+| Global Coral Reef Monitoring Network     | https://github.com/GCRMN/gcrmndb_benthos?tab=readme-ov-file#12-coral-reef-monitoring    | Dataset on monitoring coral reef damage          |
 
 # Method and medium
 
