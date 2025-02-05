@@ -39,7 +39,7 @@ These are incremental steps that can be taken from the level of an individual to
    - visualizing data that represnts what type of contact is most common in dive sites
 4. Consequence of diver contact
    - identifying coral degradation patterns
-5. Steps to mitigate
+6. Steps to mitigate
  
 
 
