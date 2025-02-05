@@ -70,7 +70,9 @@ Data on coral reef degredation will be used to study the main causes of degradat
    - This data provides information on recreation suba and reef diving sites in the North East part of the United States
   4. Global Coral Reef Monitoring Netwrork
      - https://github.com/GCRMN/gcrmndb_benthos?tab=readme-ov-file#12-coral-reef-monitoring
-     - Provides data on coral reef loss and its causes 
+     - Provides data on coral reef loss and its causes
+    
+       
 
 # Method and medium
 
