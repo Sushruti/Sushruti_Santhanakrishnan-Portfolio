@@ -28,7 +28,7 @@ While the idea was to give people an idea about where they could possibly get th
 
 ![Solution](https://github.com/Sushruti/Sushruti_Santhanakrishnan-Portfolio/blob/6b9d2b9e82c1eb1f41215e20d2c89efbad5e460d/WhatsApp%20Image%202025-02-12%20at%2011.39.27%20PM.jpeg)
 
-![Solution](
+![Solution](https://github.com/Sushruti/Sushruti_Santhanakrishnan-Portfolio/blob/bad52c1c087ddcc06d3bcaa3d845561d08e826ab/WhatsApp%20Image%202025-02-12%20at%2011.39.27%20PM%20(1).jpeg)
 
 
 
