@@ -43,9 +43,6 @@ These are incremental steps that can be taken from the level of an individual to
  
 
 
-
-
-
 ## Initial sketches
 > These are some initial sketches that help explain and visualize the data.
 
