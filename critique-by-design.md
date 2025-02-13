@@ -26,6 +26,8 @@ What I would probably do differently is create a map that is symbolized by the p
 
 While the idea was to give people an idea about where they could possibly get the cheapest slice of pizza, I also thought it would be interesting to see if I could also show the pattern of inflation through it. While the author depicts a line graph with the prices of plain and pepperoni pizza from 2014 to 2023, during the time of inflation, around 2020 we see that there is a rise in the price of pizza slices. I thought this could be an interesting layer to add to the redeisgn. 
 
+![Solution]
+
 
 
 ## Step four: Test the solution
