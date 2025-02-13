@@ -2,7 +2,7 @@
 
 # Price of pizza slices in NYC 
 
-
+hello
 ## Step one: the visualization
 
 The data chosen to visulaize was [NYC Pizza Slice] (https://elkue.com/nyc-slice/)
