@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi! I am Sushruti Santhanakrishnan from Chennai, India. I am currently pursuing Master of Urban Design in Carnegie Mellon University. I have a bachelors in Public Space Design and my interest lies in community led design, creating spaces is for EVERYONE. Right now I'm on a journey to push myself out of my comfort zone and really force myslef to learn something new, something that will enhance my work.
+Hi! I am Sushruti Santhanakrishnan from Chennai, India. I am currently pursuing Master of Urban Design in Carnegie Mellon University. I have a bachelors in Public Space Design and my interest lies in community led design, creating spaces is for EVERYONE. Right now I'm on a journey to push myself out of my comfort zone and really force myslef to learn something new, something that will enhance my work. - hi 
 
 # What I hope to learn
 There are a million things that I want to learn, academically but also things that just create life-long memories for me. 
