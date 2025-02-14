@@ -31,7 +31,6 @@ While the idea was to give people an idea about where they could possibly get th
 ![Solution](https://github.com/Sushruti/Sushruti_Santhanakrishnan-Portfolio/blob/bad52c1c087ddcc06d3bcaa3d845561d08e826ab/WhatsApp%20Image%202025-02-12%20at%2011.39.27%20PM%20(1).jpeg)
 
 
-
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
