@@ -48,7 +48,7 @@ These are incremental steps that can be taken from the level of an individual to
 
 ![Initial Sketches](WhatsApp%20Image%202025-02-04%20at%2012.03.58%20PM.jpeg)
 
-![Initial Sketches](https://github.com/Sushruti/Sushruti_Santhanakrishnan-Portfolio/blob/2fc31ab0b4fa4085d35bc34fce8c0c669be8f2d0/WhatsApp%20Image%202025-02-04%20at%2012.03.58%20PM%20(1).jpeg)
+![Initial Sketches](WhatsApp%20Image%202025-02-04%20at%2012.03.58%20PM%20(1).jpeg)
  
 
 
