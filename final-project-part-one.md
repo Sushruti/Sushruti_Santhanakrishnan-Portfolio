@@ -63,7 +63,7 @@ Data on coral reef degredation will be used to study the main causes of degradat
    -  https://data.apps.fao.org/catalog/dataset/bfcb8c96-648c-4c31-9702-20fc5d4d5b49/resource/ac899252-b141-4907-b89f-9cb2de42a9b0
    - The data provides information on Marine Protected Areas around the world
 3. North East Ocean Data (USA)
-   - https://www.northeastoceandata.org/data-explorer/?{%22point%22:{%22x%22:-7959343.591718927,%22y%22:5160979.444049675,%22spatialReference%22:{%22wkid%22:102100,%22latestWkid%22:3857}},%22zoom%22:7,%22basemap%22:%22oceans%22,%22layers%22:[{%22url%22:%22https://services.northeastoceandata.org/arcgis1/rest/services/RecreationAndCulture/MapServer/16#Recreation%22,%22name%22:%22Recreational%20SCUBA%20Diving%20Areas%22,%22opacity%22:0.8},{%22url%22:%22https://services.northeastoceandata.org/arcgis1/rest/services/RecreationAndCulture/MapServer/32#Recreation%22,%22name%22:%22REEF%20Dive%20Sites%20and%20Reports%22,%22opacity%22:0.8}]}
+   - [https://www.northeastoceandata.org/data-explorer](https://www.northeastoceandata.org/)
    - This data provides information on recreation suba and reef diving sites in the North East part of the United States
   4. Global Coral Reef Monitoring Netwrork
      - https://github.com/GCRMN/gcrmndb_benthos?tab=readme-ov-file#12-coral-reef-monitoring
