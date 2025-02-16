@@ -11,6 +11,11 @@ The reason I chose to work on the redesign for this data was just because of how
 
 [Link](https://data.world/makeovermonday/2023w5) to the raw data sets and maps.  
 
+### The Original Visualization 
+
+Mapping all the pizza joints tried thorugh a map.
+
+
 ## Step two: the critique
 
 NYC Pizza Slice by Liam Quigley represents his journey of trying out pizza slices in New York City from 2014 to 2022. He also has a baseline for the price, which starts at $2.50, which is considered cheap, and goes up to approximately $6 a slice, which is expensive. What works great here is that the data only focuses on the pizza slices he has tried and includes the necessary attributes like where, when, and how much each slice costs. 
