@@ -59,9 +59,6 @@ Questions I asked to my peer reviewers:
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |  Interview 3 |
 |----------|-------------|-------------|------------- |
 | What do you think you are learning from this data? | Where people can get cheap pizza in NYC and which borough has the cheapest pizza | Which area in NYC has the most options for pizza joints and comparison between plain and pepperoni pizza slice prices |        
@@ -149,6 +146,46 @@ While the map abouve shows the specifics of where in NYC you can get cheap pizza
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+I chose to filter out only plain and pepperoni pizza styles, because even though the author does try different pizza styles the majority is plain and pepperoni. By doing this the amount of information a viewer might have to comprehend also reduces - making it easier to understand the chart. I also visulized them with a colour that I think represents them the best - red for pepperoni and yellow for plain. 
+
+<div class='tableauPlaceholder' id='viz1739720966017' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Average pizza slice price by borough' 
+           src='https://public.tableau.com/static/images/Pi/PizzaSlice_17397154445730/Sheet4/1_rss.png' 
+           style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='PizzaSlice_17397154445730/Sheet4' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' 
+           value='https://public.tableau.com/static/images/Pi/PizzaSlice_17397154445730/Sheet4/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1739720966017');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 
 
