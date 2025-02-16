@@ -147,7 +147,7 @@ While the map abouve shows the specifics of where in NYC you can get cheap pizza
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-I chose to filter out only plain and pepperoni pizza styles, because even though the author does try different pizza styles the majority is plain and pepperoni. By doing this the amount of information a viewer might have to comprehend also reduces - making it easier to understand the chart. I also visulized them with a colour that I think represents them the best - red for pepperoni and yellow for plain. 
+I chose to filter out only plain and pepperoni pizza styles, because even though the author does try different pizza styles the majority is plain and pepperoni. By doing this the amount of information a viewer might have to comprehend also reduces - making it easier to understand the chart. This chart compares the average price of pepperoni and plain pizza silces in each borough. I also visulized them with a colour that I think represents them the best - red for pepperoni and yellow for plain. 
 
 <div class='tableauPlaceholder' id='viz1739720966017' style='position: relative'>
   <noscript>
