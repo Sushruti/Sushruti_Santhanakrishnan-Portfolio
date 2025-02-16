@@ -12,8 +12,8 @@ The reason I chose to work on the redesign for this data was just because of how
 [Link](https://data.world/makeovermonday/2023w5) to the raw data sets and maps.  
 
 ### The Original Visualization 
-
-![Mapping Pizza joints tried throughout NYC](PizzaViz.jpg)
+Mapping the Pizza joints tried in NYC 
+![Mapping Pizza joints tried throughout NYC](PizzaViz.jpeg)
 
 
 
