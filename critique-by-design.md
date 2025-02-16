@@ -13,7 +13,8 @@ The reason I chose to work on the redesign for this data was just because of how
 
 ### The Original Visualization 
 
-Mapping all the pizza joints tried thorugh a map.
+![Mapping Pizza joints tried throughout NYC](PizzaViz.jpeg)
+
 
 
 ## Step two: the critique
