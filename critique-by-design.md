@@ -76,7 +76,7 @@ Another suggestion was - if in case I was choosing to depict inflation, I could 
 
 ## Step five: build the solution
 
-Like I had mentioned in my critique of the original data, I chose to map the pizza joints around NYC by the price. I feel like this is a much better way o give people - studets, working class, tourists, a better sense of where you can get cheap pizza. 
+Like I had mentioned in my critique of the original data, I chose to map the pizza joints around NYC by the price. I feel like this is a much better way o give people - studets, working class, tourists, a better sense of where you can get cheap pizza. The map also specifices the name of the Pizza joint, but not its address. 
 
 <div class='tableauPlaceholder' id='viz1739715676841' style='position: relative'>
   <noscript>
@@ -107,8 +107,86 @@ Like I had mentioned in my critique of the original data, I chose to map the piz
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script> 
+
+While the map abouve shows the specifics of where in NYC you can get cheap pizza slices, I wanted to see if I could visualize the average pice of pizza slices by NYC boroughs. This gives a larger picture in terms of understanding which borough overall has expensive pizza slices.
+
+<div class='tableauPlaceholder' id='viz1739719187584' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Average price of pizza slice by NYC borough' 
+           src='https://public.tableau.com/static/images/Pi/PizzaSlice_17397154445730/Sheet3/1_rss.png' 
+           style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='PizzaSlice_17397154445730/Sheet3' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' 
+           value='https://public.tableau.com/static/images/Pi/PizzaSlice_17397154445730/Sheet3/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1739719187584');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+I went ahead and tried to see if I could visulaize the increase in prices from 2014 to 2023 only for plain and perpperoni style pizzas - though the outcome of the interview was to see if I could put this chart in the beginning, but I felt that even though I am trying to show inflation my main focus is to give people an idea as to where you can get cheap pizza in NYC. But this was also a process of experimentation for me. 
+
+<div class='tableauPlaceholder' id='viz1739718160863' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Average pizza prices by year' 
+           src='https://public.tableau.com/static/images/Pi/PizzaSlice_17397154445730/Sheet2/1_rss.png' 
+           style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='PizzaSlice_17397154445730/Sheet2' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' 
+           value='https://public.tableau.com/static/images/Pi/PizzaSlice_17397154445730/Sheet2/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1739718160863');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ## References
 _List any references you used here._
