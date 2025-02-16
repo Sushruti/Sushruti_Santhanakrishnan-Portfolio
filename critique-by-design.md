@@ -109,7 +109,9 @@ Like I had mentioned in my critique of the original data, I chose to map the piz
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script> 
 
+
 While the map abouve shows the specifics of where in NYC you can get cheap pizza slices, I wanted to see if I could visualize the average pice of pizza slices by NYC boroughs. This gives a larger picture in terms of understanding which borough overall has expensive pizza slices.
+
 
 <div class='tableauPlaceholder' id='viz1739719187584' style='position: relative'>
   <noscript>
@@ -149,7 +151,10 @@ While the map abouve shows the specifics of where in NYC you can get cheap pizza
 </script>
 
 
+
 I went ahead and tried to see if I could visulaize the increase in prices from 2014 to 2023 only for plain and perpperoni style pizzas - though the outcome of the interview was to see if I could put this chart in the beginning, but I felt that even though I am trying to show inflation my main focus is to give people an idea as to where you can get cheap pizza in NYC. But this was also a process of experimentation for me. 
+
+
 
 <div class='tableauPlaceholder' id='viz1739718160863' style='position: relative'>
   <noscript>
