@@ -70,11 +70,45 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+While the participants during the interview overall appreciated the sketch of the solution, a common question was "What do you mean by plain pizza?". This one was tricky because the author of the data itself has not specified what plain pizza might be, so this was a question I was also having. But for this assignmnet i am assuming that a plain pizza might just be the same as margherita.
+
+Another suggestion was - if in case I was choosing to depict inflation, I could probably have the line graph in the begining of the data visualization. 
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Like I had mentioned in my critique of the original data, I chose to map the pizza joints around NYC by the price. I feel like this is a much better way o give people - studets, working class, tourists, a better sense of where you can get cheap pizza. 
+
+<div class='tableauPlaceholder' id='viz1739715676841' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Sheet 1' src='https://public.tableau.com/static/images/C9/C9M3GJDCC/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='path' value='shared/C9M3GJDCC' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/C9/C9M3GJDCC/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1739715676841');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
 ## References
 _List any references you used here._
