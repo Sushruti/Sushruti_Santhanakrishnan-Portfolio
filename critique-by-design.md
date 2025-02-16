@@ -231,8 +231,8 @@ I went ahead and tried to see if I could visulaize the increase in prices from 2
 </script>
 
 ## References
-_List any references you used here._
+
+To help with creating the map - [MakeOverMonday](https://www.youtube.com/watch?v=bdFW6gnbBik&t=1693s)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used ChatGPT  to help format the code to embed the map created on Tableau. 
