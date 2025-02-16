@@ -13,7 +13,16 @@ The reason I chose to work on the redesign for this data was just because of how
 
 ### The Original Visualization 
 Mapping the Pizza joints tried in NYC 
+
 ![Pizza joints in NYC](PizzaViz1.jpeg).
+
+Visualizing the changes in price from 2014 to 2023 - specifically for plan and pepperoni.
+
+![Prices of plain and pepperoni](PizzaViz2.jpeg).
+
+Tabulating the pizza joints tried and the price - arranged from heighest to lowest price per slice.
+
+![Tabulation of pizza slice prices](PizzaViz3.jpeg).
 
 
 
