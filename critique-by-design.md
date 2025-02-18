@@ -58,12 +58,12 @@ Questions I asked to my peer reviewers:
 
 
 Results: 
+| Question                                      | MISM Student 1                                      | MISM Student 2                                                   | Entertainment Design Student                                  |
+|-----------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------|
+| What do you think you are learning from this data? | Where people can get cheap pizza in NYC and which borough has the cheapest pizza | Working class people who want to find cheap pizza options only because most of the pizza joints are located in dense urban developments | Which area in NYC has the most options for pizza joints and comparison between plain and pepperoni pizza slice prices |
+| Who might the target audience be?              | Tourists or the residents of NYC                    | Working class people looking for cheap pizza options            | Other pizza joint owners to see who their competitors are      |
+| What would you change in these?                | Maybe combining the line graphs together, they do not necessarily need to be separate graphs | Probably keeping the line graph at the beginning because you are also showing inflation | The flow of the story works well because the order might target different groups of people, I like the fact that inflation might not be the core of the data viz but rather a finding from it. |
 
-| Question | Interview 1 | Interview 2 |  Interview 3 |
-|----------|-------------|-------------|------------- |
-| What do you think you are learning from this data? | Where people can get cheap pizza in NYC and which borough has the cheapest pizza | Which area in NYC has the most options for pizza joints and comparison between plain and pepperoni pizza slice prices |        
-|          |             |             |              |
-|          |             |             |              |
 
 Synthesis: 
 
