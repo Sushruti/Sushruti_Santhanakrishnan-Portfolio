@@ -59,7 +59,7 @@ Questions I asked to my peer reviewers:
 
 Results: 
 
-| Question                                      | MISM Student 1                                                    | MISM Student 2                                                        | Entertainment Design Student                                                               |
+| Question                                      | MISM Student 1                                                    | MISM Student 2                                                         | Entertainment Design Student                                                               |
 |-----------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | What do you think you are learning from this data? | Where people can get cheap pizza in NYC and which borough has the cheapest pizza | Working class people who want to find cheap pizza options only because most of the pizza joints are located in dense urban developments | Which area in NYC has the most options for pizza joints and comparison between plain and pepperoni pizza slice prices |
 | Who might the target audience be?              | Tourists or the residents of NYC                                   | Working class people looking for cheap pizza options                  | Other pizza joint owners to see who their competitors are                                  |
