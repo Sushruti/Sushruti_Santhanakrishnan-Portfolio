@@ -37,7 +37,7 @@ For this project there could be a few levels of the target audience.
 
 | Goals                              | Questions to Ask                                                                               |
 |------------------------------------|------------------------------------------------------------------------------------------------|
-| To understand factors that influence walking     | What are some of the key features in Pittsburgh that influence walkability?                    |
+| To understand factors that influence walking  | What are some of the key features in Pittsburgh that influence walkability?         |
 |                                    | Why do some neighborhoods have a higher density of people walking to work?                     |
 | To understand proximity            | Does the presence of universities/offices close to certain neighborhoods encourage walking?    |
 | To address pedestrian safety       | Do people choose to walk more when they feel the environment around them is conducive to walking? |
