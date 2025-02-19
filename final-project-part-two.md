@@ -44,8 +44,8 @@ For this project there could be a few levels of the target audience.
 |                                        | Does the maintenance or presence of sidewalks increase the number of people who choose to walk? |
 
 
+For my research these goals and provocaive questions can help identify actionable insights or help me propose steps that can inform urban planning, transportation policies, and infrastructure investment. On a city level scale, understanding what encourages or discourages walking, cities can implement targeted interventions that enhance walkability, improve public health, reduce carbon emissions, and promote equitable urban mobility.
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
