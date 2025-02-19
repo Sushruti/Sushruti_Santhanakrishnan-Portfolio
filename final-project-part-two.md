@@ -22,9 +22,15 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+For this project there could be a few levels of the target audience.
 
-Text here!
+1. Primary Audience
+   - Neighborhood/county level organization leaders or representatives could use this data to assess the pedestrain friendly quality that exists in their neighborhood. The findings from this project could also inform them as what to focus on redesigning or implementing by taking examples from neighborhoods that have a high density of people who walk o work.
+2. Secondary Audience
+   - Policy makers and urban planners could use this data to understand where to provide better pedestrain amenities. As they are interested in understanding walkability trends to inform transportation planning, zoning regulations, and infrastructure investments the data could help guide policies that support pedestrian-friendly urban design.
+3. Tertiary Audience
+   - Scholars, especially within the subject of the built environment, transportation researchers, and students studying city planning, mobility, or sustainability could find your data valuable for comparative studies, this research could contribute to discussions about how urban design influences commuting behaviors.
+   - This data and reserach would also be useful for the general public encourage more residents to walk by highlighting the benefits and feasibility of pedestrian commuting
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
