@@ -33,15 +33,15 @@ For this project there could be a few levels of the target audience.
    - This data and reserach would also be useful for the general public encourage more residents to walk by highlighting the benefits and feasibility of pedestrian commuting
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Goals                              | Questions to Ask                                                                               |
+|------------------------------------|------------------------------------------------------------------------------------------------|
+| To understand factors that influence walking     | What are some of the key features in Pittsburgh that influence walkability?                    |
+|                                    | Why do some neighborhoods have a higher density of people walking to work?                     |
+| To understand proximity            | Does the presence of universities/offices close to certain neighborhoods encourage walking?    |
+| To address pedestrian safety       | Do people choose to walk more when they feel the environment around them is conducive to walking? |
+|                                    | Does the maintenance or presence of sidewalks increase the number of people who choose to walk? |
 
 
 Text here!
