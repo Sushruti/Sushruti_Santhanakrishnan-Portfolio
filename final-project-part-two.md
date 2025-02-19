@@ -34,6 +34,7 @@ For this project there could be a few levels of the target audience.
 
 ## Interview script
 
+Overall questions that I would like to expolore through my project and research.
 
 | Goals                                  | Questions to Ask                                                                               |
 |----------------------------------------|------------------------------------------------------------------------------------------------|
@@ -48,9 +49,8 @@ For my research these goals and provocaive questions can help identify actionabl
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+While my goals where to learn from the data and create inferences or analysis based on that, the questions that I asked during the interviews were different. They were more based on how well my visualization reads, what are some of the other layers I could add to my reserach, economic and social facors maybe. 
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
