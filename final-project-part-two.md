@@ -53,11 +53,11 @@ For my research these goals and provocaive questions can help identify actionabl
 
 While my goals where to learn from the data and create inferences or analysis based on that, the questions that I asked during the interviews were different. They were more based on how well my visualization reads, what are some of the other layers I could add to my reserach, economic and social facors maybe. 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions                             | PPM Student 1                                       | PPM Student 2                                       | MUD Student                                      |
+|--------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| What are some of the other ways I could visualize this data? | Maybe having bar charts that represent the number of people who walk might be better. | The map is actually interesting, especially because your context is in Pittsburgh. The audience might be able to relate to it more. | The map is legible for me because maps like these are common in planning and design, but for a layperson, a bar chart might work better. |
+| What layers could I add to the visualization? | Is there some data you could get based on the walkability in each neighborhood? Can you compare walkability to another city, just to give something to create a benchmark out of? | Probably adding something about the benefits of walking could be helpful to convince the target audience to make changes. | Is there a correlation between walking and economic impact? It would be interesting to see that. |
+| Is there something I could change about the visualization? | Maybe adding pictures of what quality of a neighborhood influences walking; it would make it easier to understand. | The combination of having maps is a different perspective, and it's interesting to represent data like this. | Designing the map to look better would be helpful, like adjusting the colors and symbols. |
 
 
 # Identified changes for Part III
