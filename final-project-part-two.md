@@ -61,9 +61,8 @@ While my goals where to learn from the data and create inferences or analysis ba
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+From the interviews, the priority would be to 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -73,9 +72,6 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
