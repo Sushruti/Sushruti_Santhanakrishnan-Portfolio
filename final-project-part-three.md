@@ -10,6 +10,9 @@ Looking closely at why certain neighborhoods have more walking commuters, we sta
 
 By mapping walkability trends and breaking down what makes certain neighborhoods more pedestrian-friendly, this analysis helps us see where Pittsburgh is doing well and where there’s room for improvement. It gives us a clearer idea of why some areas naturally support walking while others don’t, which could spark conversations about how to make more neighborhoods walkable. Whether it's improving sidewalks, adding better crosswalks, there are real opportunities to make walking an easier and more attractive option across the city. 
 
+> Link to ShortHand Story
+[Walking To Work In Pittsburgh](https://preview.shorthand.com/rB4hYc7opABh2lP0)
+
 # Changes made since Part II
 
 During my Part II interviews, some of the comments were adding pictures to make the story more relatable - specifically pictures that represent the factors that influence walking.
